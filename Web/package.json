@@ -1,0 +1,8 @@
+{
+  "name": "TicTacToe",
+  "version": "1.0.0",
+  "description": "A fun game",
+  "main": "index.js",
+  "author": "Yang and MandosBro",
+  "license": "MIT"
+}
